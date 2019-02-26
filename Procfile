@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp /server/target/classes;target/dependency/* com.svmapp.server.Svmapp
+web: java $JAVA_OPTS -cp /server/target/classes;target/dependency/* com.svmapp.server.Svmapp.class
