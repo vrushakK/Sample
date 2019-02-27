@@ -23,7 +23,7 @@
 			    <configuration>
 			      <archive>
 			        <manifest>
-			          <mainClass>com.svmapp.server.Svmapp</mainClass>
+			          <mainClass>/server/src/main/java/com/svmapp/server/Svmapp.java</mainClass>
 			        </manifest>
 			      </archive>
 			    </configuration>
